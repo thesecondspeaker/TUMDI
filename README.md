@@ -1,6 +1,7 @@
 # TUMDI
 
-**Tube Saturation**  
+![TUMDI Tube Saturation](TUMDI.png)**Tube Saturation**  
+
 by thesecondspeaker
 
 Warm. Smooth. Musical.
